@@ -1,0 +1,54 @@
+@charset "utf-8";
+* { margin: 0; padding: 0; border: 0;}
+
+
+body h1 {
+	background-image: url(../images/backgroundtitle.jpg);
+	background-size: cover;
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	line-height: 3cm;
+	background-repeat: repeat;
+	color: #061C39;
+}
+body {
+	background-color: #061C39;
+}
+
+img {
+	width: 10cm;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+}
+
+
+
+.my-container {
+	border: 5px ridge #B3C8DB;
+	color: #061C39;
+	background-color: #D9DEDA;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-style: oblique;
+}
+#photo {
+	color: #EEE6E6;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.first.paragraph {
+	color: #D9DEDA;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: italic;
+	padding-left: 40px;
+	padding-right: 40px
+}
+.introduction {
+	color:#D9DEDA;
+	padding-left: 40px;
+	padding-right: 40px
+}
